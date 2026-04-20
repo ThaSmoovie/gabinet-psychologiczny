@@ -34,7 +34,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          VITE_BASE: /mindful-haven-digital/
+          VITE_BASE: /gabinet-psychologiczny/
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
