@@ -12,7 +12,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        display: ["Urbanist", "system-ui", "sans-serif"],
+        display: ["Outfit", "system-ui", "sans-serif"],
         body: ["Epilogue", "system-ui", "sans-serif"],
       },
       colors: {

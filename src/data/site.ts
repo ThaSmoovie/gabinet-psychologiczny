@@ -1,6 +1,6 @@
 // Centralne dane treści — łatwa podmiana.
 import heroPortrait from "@/assets/hero-portrait.jpg";
-import officeInterior from "@/assets/office-interior.jpg";
+import officeInterior from "@/assets/office-interior.svg";
 import footerPlaceholder from "@/assets/footer-placeholder.svg";
 import gabinet1Placeholder from "@/assets/gabinet-1-placeholder.svg";
 import gabinet2Placeholder from "@/assets/gabinet-2-placeholder.svg";

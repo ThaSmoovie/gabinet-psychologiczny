@@ -35,7 +35,7 @@ const PageHeader = ({ eyebrow, title, intro, index }: Props) => (
           )}
         </div>
         <div className="hidden md:flex flex-col items-end gap-4 pt-2">
-          <img src={ASSETS.leafMark} alt="" aria-hidden className="h-12 w-12 opacity-70" />
+          <img src={ASSETS.leafMark} alt="" aria-hidden className="h-36 w-36 opacity-70" />
         </div>
       </div>
     </div>
