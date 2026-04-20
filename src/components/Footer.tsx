@@ -7,7 +7,7 @@ const Footer = () => {
         <div>
           <div className="flex items-center gap-3">
             <span className="flex h-9 w-9 items-center justify-center rounded-full bg-primary text-primary-foreground font-display text-sm font-semibold">
-              LI
+              BS
             </span>
             <span className="font-display text-base font-medium">Bożena Siminiak</span>
           </div>
